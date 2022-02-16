@@ -16,7 +16,6 @@ if (selections.length > 0) {
 
   figma.ui.onmessage = async (msg) => {
     if (msg == "filesaved") {
-      figma.notify("no selection", { error: true });
       figma.closePlugin();
     }
   };
@@ -29,5 +28,6 @@ if (selections.length > 0) {
   });
 } else {
   figma.notify("no selection", { error: true });
+
   figma.closePlugin();
 }
