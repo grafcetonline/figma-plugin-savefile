@@ -1,2 +1,1 @@
-# figma-plugin-savefile
-figma plugin savefile - opensource - entirely generated with GO Ⓖrafcet.Ⓞnline
+See https://www.figma.com/file/ZcSQsscILLBjVEL0cEygCn/figma-plugin-creation---savefile-figma-plugin-%40go-grafcet.online?node-id=0%3A1
